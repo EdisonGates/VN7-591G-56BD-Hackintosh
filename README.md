@@ -21,6 +21,8 @@
 
 * nVidia GTX860M
 
+* TouchPad (Single Finger)
+
 # Supported Versions
 
 * macOS Mojave 10.14.5 (18F132)

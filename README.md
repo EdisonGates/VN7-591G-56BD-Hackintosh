@@ -1,10 +1,13 @@
-# First commit  2019/10/11 21:40:47
+# Latest commit  2020/04/06 16:21:59 UTC
 
 
 
 
 # Hardware information 
 
+
+
+# Supported Catalina 10.15.4 
 
 
 

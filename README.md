@@ -22,7 +22,7 @@
 
 * Graphics：Intel Graphics HD4600
 
-* Audio：Realtek ALC283 with layout-id 11
+* Audio：Realtek ALC283 with layout-id 7
 
 * Wireless：BCM Wireless 94352Z (DW1560)
 

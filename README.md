@@ -1,6 +1,11 @@
-# Latest commit  2020/04/06 16:40:11
+# Latest commit  2020/06/26 16:51:06
 
 
+# OpenCore Supported 10.16（BigSur）
+
+* Inital Commit
+
+* OpenCore Version 0.6
 
 
 # Hardware information 
@@ -27,5 +32,6 @@
 
 * macOS Mojave 10.14.5 (18F132)
 
-* macOS Catalina 10.15, 10.15.1, 10.15.2 10.15.3 10.15.4 （19A583、19A602、19B88、19C57、19D76、19E266）
+* macOS Catalina 10.15, 10.15.1, 10.15.2 10.15.3 10.15.4 10.15.5 （19A583、19A602、19B88、19C57、19D76、19E266、19E101）
 
+* macOS BigSur 10.16 (20A4299v)

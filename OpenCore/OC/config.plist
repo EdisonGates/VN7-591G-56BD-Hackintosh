@@ -387,7 +387,7 @@
 				<key>layout-id</key>
 				<data>AwAAAA==</data>
 				<key>model</key>
-				<string>8 Series/C220 Series Chipset High Definition Audio Controller</string>
+				<string>Realtek ALC283 High Definition Audio Controller</string>
 			</dict>
 		</dict>
 		<key>Delete</key>

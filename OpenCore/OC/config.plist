@@ -20,6 +20,14 @@
 				<key>Enabled</key>
 				<true/>
 				<key>Path</key>
+				<string>SSDT-PM.aml</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string></string>
+				<key>Enabled</key>
+				<true/>
+				<key>Path</key>
 				<string>SSDT-DDGPU.aml</string>
 			</dict>
 			<dict>
@@ -262,7 +270,7 @@
 			<key>RebaseRegions</key>
 			<false/>
 			<key>ResetHwSig</key>
-			<false/>
+			<true/>
 			<key>ResetLogoStatus</key>
 			<false/>
 		</dict>
@@ -297,9 +305,9 @@
 			<key>DisableSingleUser</key>
 			<false/>
 			<key>DisableVariableWrite</key>
-			<true/>
-			<key>DiscardHibernateMap</key>
 			<false/>
+			<key>DiscardHibernateMap</key>
+			<true/>
 			<key>EnableSafeModeSlide</key>
 			<true/>
 			<key>EnableWriteUnprotector</key>
@@ -811,34 +819,6 @@
 				<key>Base</key>
 				<string></string>
 				<key>Comment</key>
-				<string>change F%uT%04x to F%uTxxxx in AppleBacklightInjector.kext (credit RehabMan)</string>
-				<key>Count</key>
-				<integer>0</integer>
-				<key>Enabled</key>
-				<true/>
-				<key>Find</key>
-				<data>RiV1VCUwNHgA</data>
-				<key>Identifier</key>
-				<string>com.apple.driver.AppleBacklight</string>
-				<key>Limit</key>
-				<integer>0</integer>
-				<key>Mask</key>
-				<data></data>
-				<key>MaxKernel</key>
-				<string></string>
-				<key>MinKernel</key>
-				<string></string>
-				<key>Replace</key>
-				<data>RiV1VHh4eHgA</data>
-				<key>ReplaceMask</key>
-				<data></data>
-				<key>Skip</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>Base</key>
-				<string></string>
-				<key>Comment</key>
 				<string></string>
 				<key>Count</key>
 				<integer>0</integer>
@@ -891,7 +871,7 @@
 			<key>PanicNoKextDump</key>
 			<false/>
 			<key>PowerTimeoutKernelPanic</key>
-			<true/>
+			<false/>
 			<key>ThirdPartyDrives</key>
 			<false/>
 			<key>XhciPortLimit</key>
@@ -910,7 +890,7 @@
 			<key>HibernateMode</key>
 			<string>None</string>
 			<key>HideAuxiliary</key>
-			<false/>
+			<true/>
 			<key>PickerAttributes</key>
 			<integer>0</integer>
 			<key>PickerAudioAssist</key>
@@ -957,7 +937,7 @@
 			<key>BootProtect</key>
 			<string>Bootstrap</string>
 			<key>ExposeSensitiveData</key>
-			<integer>3</integer>
+			<integer>2</integer>
 			<key>HaltLevel</key>
 			<integer>2147483648</integer>
 			<key>ScanPolicy</key>
@@ -1061,7 +1041,7 @@
 			</array>
 		</dict>
 		<key>LegacyEnable</key>
-		<true/>
+		<false/>
 		<key>LegacyOverwrite</key>
 		<false/>
 		<key>LegacySchema</key>
@@ -1121,16 +1101,16 @@
 			<key>SystemProductName</key>
 			<string>MacBookPro11,4</string>
 			<key>SystemSerialNumber</key>
-			<string>C02SQCVSG8WN</string>
+			<string>C02W208UG8WN</string>
 			<key>SystemUUID</key>
-			<string>7949EDA0-13A8-580C-919A-F3010E62D274</string>
+			<string>4CD932D8-89D6-477D-A3E7-3DD08F46900F</string>
 		</dict>
 		<key>Generic</key>
 		<dict>
 			<key>AdviseWindows</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02645200WWH4NT1G</string>
+			<string>C02801600CDGDQP1H</string>
 			<key>ROM</key>
 			<data>kMHGDKF4</data>
 			<key>SpoofVendor</key>
@@ -1138,9 +1118,9 @@
 			<key>SystemProductName</key>
 			<string>MacBookPro11,4</string>
 			<key>SystemSerialNumber</key>
-			<string>C02SQCVSG8WN</string>
+			<string>C02W208UG8WN</string>
 			<key>SystemUUID</key>
-			<string>4BDE410C-FBB2-5D51-855A-6809D1A90DE8</string>
+			<string>4CD932D8-89D6-477D-A3E7-3DD08F46900F</string>
 		</dict>
 		<key>PlatformNVRAM</key>
 		<dict>
@@ -1151,7 +1131,7 @@
 			<key>FirmwareFeaturesMask</key>
 			<data>P/8f/wAAAAA=</data>
 			<key>MLB</key>
-			<string>C02645200WWH4NT1G</string>
+			<string>C02801600CDGDQP1H</string>
 			<key>ROM</key>
 			<data>kMHGDKF4</data>
 		</dict>
@@ -1182,15 +1162,15 @@
 		<key>Audio</key>
 		<dict>
 			<key>AudioCodec</key>
-			<integer>0</integer>
+			<integer>18</integer>
 			<key>AudioDevice</key>
-			<string>PciRoot(0x0)/Pci(0x1b,0x0)</string>
+			<string>PciRoot(0x0)/Pci(0x1B,0x0)</string>
 			<key>AudioOut</key>
-			<integer>11</integer>
-			<key>AudioSupport</key>
-			<false/>
-			<key>MinimumVolume</key>
 			<integer>20</integer>
+			<key>AudioSupport</key>
+			<true/>
+			<key>MinimumVolume</key>
+			<integer>30</integer>
 			<key>PlayChime</key>
 			<true/>
 			<key>VolumeAmplifier</key>

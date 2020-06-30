@@ -2,7 +2,7 @@
 
 
 
-# Latest commit  2020/06/30 16:02:59
+# Latest commit  2020/06/30 20:11:03
 
 * Updated OpenCore 0.6 (2020.06.30)
 

@@ -2,8 +2,12 @@
 
 
 
-# Latest commit  2020/06/30 15:21:31
+# Latest commit  2020/06/30 15:45:27
 
+
+* Update ALC Layout-ID=11
+
+* Fix "kernel-task" occupancy rate is too high
 
 
 

@@ -144,7 +144,8 @@
 			</dict>
 		</array>
 		<key>Delete</key>
-		<array/>
+		<array>
+		</array>
 		<key>Patch</key>
 		<array>
 			<dict>
@@ -381,11 +382,11 @@
 				<key>device-id</key>
 				<data>IIwAAA==</data>
 				<key>device_type</key>
-				<string>Audio device</string>
+				<string>High Definition Audio Device</string>
 				<key>hda-gfx</key>
 				<string>onboard-2</string>
 				<key>layout-id</key>
-				<data>AwAAAA==</data>
+				<data>CwAAAA==</data>
 				<key>model</key>
 				<string>Realtek ALC283 High Definition Audio Controller</string>
 			</dict>
@@ -767,7 +768,8 @@
 			</dict>
 		</array>
 		<key>Block</key>
-		<array/>
+		<array>
+		</array>
 		<key>Emulate</key>
 		<dict>
 			<key>Cpuid1Data</key>
@@ -899,7 +901,8 @@
 	<key>Misc</key>
 	<dict>
 		<key>BlessOverride</key>
-		<array/>
+		<array>
+		</array>
 		<key>Boot</key>
 		<dict>
 			<key>ConsoleAttributes</key>
@@ -941,7 +944,8 @@
 			<integer>3</integer>
 		</dict>
 		<key>Entries</key>
-		<array/>
+		<array>
+		</array>
 		<key>Security</key>
 		<dict>
 			<key>AllowNvramReset</key>
@@ -1082,7 +1086,8 @@
 				<string>efi-boot-device-data</string>
 			</array>
 			<key>8BE4DF61-93CA-11D2-AA0D-00E098032B8C</key>
-			<array/>
+			<array>
+			</array>
 		</dict>
 		<key>WriteFlash</key>
 		<false/>
@@ -1299,7 +1304,8 @@
 			<false/>
 		</dict>
 		<key>ReservedMemory</key>
-		<array/>
+		<array>
+		</array>
 	</dict>
 </dict>
 </plist>

@@ -2,9 +2,9 @@
 
 
 
-# Latest commit  2020/06/30 20:11:03
+# Latest commit  2020/07/05 18:41:33
 
-* Updated OpenCore 0.6 (2020.06.30)
+* Updated OpenCore 0.6 (2020.07.05)
 
 * Update ALC Layout-ID=11
 

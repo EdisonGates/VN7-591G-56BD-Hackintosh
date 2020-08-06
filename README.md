@@ -4,9 +4,8 @@
 
 
 
-# Latest commit  2020/08/06 15:14:12
+# Latest commit  2020/08/06 15:24:02
 
-* Supported 10.16（BigSur 20A5343i)
 
 * Supported 11.0 (Beta1、Beta2、Beta3、Beta4)
 

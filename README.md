@@ -2,9 +2,18 @@
 
 
 
-# Latest commit  2020/07/24 01:15:38
 
-* Updated OpenCore 0.6 (2020.07.23)
+
+# Latest commit  2020/08/06 15:14:12
+
+* Supported 10.16（BigSur 20A5343i)
+
+* Supported 11.0 (Beta1、Beta2、Beta3、Beta4)
+
+
+
+
+* Updated OpenCore 0.6 (Release)
 
 * Update ALC Layout-ID=11
 
@@ -13,8 +22,7 @@
 
 
 
-
-# OpenCore Supported 10.16（BigSur）
+# OpenCore Supported 10.16（BigSur)
 
 * Inital Commit
 

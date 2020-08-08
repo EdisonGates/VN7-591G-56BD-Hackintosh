@@ -4,10 +4,11 @@
 
 
 
-# Latest commit  2020/08/07 19:30:37
+# Latest commit  2020/08/08 10:29:51
 
+* Remove boot arguments
 
-* Supported 11.0 (Beta1、Beta2、Beta3、Beta4)
+* Supported 11.0 (Beta1、Beta2、Beta3、Beta4 Public Beta1) Install、Boot、Recovery
 
 
 

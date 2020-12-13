@@ -4,7 +4,19 @@
 
 
 
-# Latest commit  2020/08/08 10:29:51
+# Latest commit 2020/12/13 14:41:39
+
+* Update OpenCore to 0.6.4
+
+* config: Add Show Picker
+
+* config: modify timeout=5
+
+* kext: All kexts updated
+
+
+
+# Last commit  2020/08/08 10:29:51
 
 * Remove boot arguments
 

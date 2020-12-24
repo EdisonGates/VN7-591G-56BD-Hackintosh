@@ -1,10 +1,20 @@
 <img src="https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Logos/OpenCore_with_text_Small.png" width="200" height="48"/>
 
 
+# Latest commit 2020/12/24 18:40:21
+
+* Add Online installation Bigsur
+
+* Add credit
+
+
+# Credit：
+
+*[**cattyhouse**](https://github.com/cattyhouse/oc-guide/blob/master/oc-dmg-install.md)
 
 
 
-# Latest commit 2020/12/13 14:41:39
+# Last commit 2020/12/13 14:41:39
 
 * Update OpenCore to 0.6.4
 
@@ -16,7 +26,7 @@
 
 
 
-# Last commit  2020/08/08 10:29:51
+# commit date 2020/08/08 10:29:51
 
 * Remove boot arguments
 

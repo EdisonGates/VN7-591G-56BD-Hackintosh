@@ -10,7 +10,7 @@
 
 # Credit：
 
-*[**cattyhouse**](https://github.com/cattyhouse/oc-guide/blob/master/oc-dmg-install.md)
+* [**cattyhouse**](https://github.com/cattyhouse/oc-guide/blob/master/oc-dmg-install.md)
 
 
 
